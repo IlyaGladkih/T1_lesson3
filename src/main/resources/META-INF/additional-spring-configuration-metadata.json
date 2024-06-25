@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "interceptor.logging",
+      "type": "java.lang.String",
+      "description": "Description for interceptor.logging."
+  }
+] }

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Request-Logging-Starter
+interceptor:
+  logging:
+    rest-template-response-logger-message:
